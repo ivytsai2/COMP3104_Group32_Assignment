@@ -1,0 +1,20 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "- Hsin Yu Ivy Tsai 101331867 (branch: 101331867-Ivy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivytsai2/COMP3104_Group32_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivytsai2/COMP3104_Group32_Assignment/issues"
+  },
+  "homepage": "https://github.com/ivytsai2/COMP3104_Group32_Assignment#readme"
+}
