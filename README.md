@@ -4,5 +4,6 @@
 
 #### Group Members:
 - Hsin Yu Ivy Tsai 101331867 (branch: 101331867-Ivy)
+- Chan Shum Loman 101241079 (branch: 101241079-Loman)
 
 #### GitHub Action script added
