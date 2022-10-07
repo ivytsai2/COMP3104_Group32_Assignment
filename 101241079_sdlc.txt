@@ -6,3 +6,6 @@ to maintenance and updates.
 
 DevOps engineers may take on specific roles, depending on their interests 
 and the needs of the organizations where they work.
+
+A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of 
+both development and operations, including coding,
