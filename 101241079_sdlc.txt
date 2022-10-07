@@ -3,3 +3,6 @@ the methodologies and tools used to develop, deploy,
 and operate high-quality software. He or she aims to balance needs 
 throughout the software development life cycle, from coding and deployment, 
 to maintenance and updates.
+
+DevOps engineers may take on specific roles, depending on their interests 
+and the needs of the organizations where they work.
