@@ -3,3 +3,6 @@ Specifically, a field where servers, web apps and infrastructure will be core to
 business needs. DevOps speeds delivery of higher 
 quality software by combining and automating the work of 
 software development and IT operations teams.
+
+DevOps provides business, technology and software 
+deployment benefits to an organiza
