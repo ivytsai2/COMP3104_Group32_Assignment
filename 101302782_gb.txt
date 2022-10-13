@@ -1,0 +1,5 @@
+Name: George Brown College
+Location: 160 Kendall Avenue
+
+George Brown College is a place for people(students) to study and learn.
+One of their many programs is T177 Computer Programming and Analysis.
