@@ -8,3 +8,12 @@ Week 2:
 - Looked at what DevOps enginerrs do
 - Looked at tools used in that field
 
+Week 3:
+- Tracking files with version control
+- create remote repository
+
+Week 4:
+- ...
+
+Week 5:
+- ...

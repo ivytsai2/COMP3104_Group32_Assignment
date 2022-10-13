@@ -1,9 +1,9 @@
 Software Development Life Cycle (SDLC)
 SDLC consists of several phases
--Planning
--Analysis
--Design
--Implementation
+-Planning and Requirement Analysis
+-Defining Requirements
+-Design and Product Architecture
+-Implementation (Building)
 -Testing
--Maintenance
+-Deployment in the Market Maintenance
 
