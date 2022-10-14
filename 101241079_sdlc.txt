@@ -10,4 +10,7 @@ and the needs of the organizations where they work.
 A DevOps engineer is an IT generalist who should have a wide-ranging knowledge of 
 both development and operations, including coding,
 
-DevOps Engineer works with developers and the IT staff to oversee the code releases. 
+DevOps Engineer works with developers and the IT staff to oversee the code releases.
+
+DevOps engineers introduce processes, tools, and methods to balance the needs of the entire software development lifecycle, from coding and deployment to maintenance and updates. 
+Maybe you want to transfer your career to DevOps, or train yourself to drive adoption within your company.
