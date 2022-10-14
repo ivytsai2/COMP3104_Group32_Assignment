@@ -14,3 +14,7 @@ DevOps Engineer works with developers and the IT staff to oversee the code relea
 
 DevOps engineers introduce processes, tools, and methods to balance the needs of the entire software development lifecycle, from coding and deployment to maintenance and updates. 
 Maybe you want to transfer your career to DevOps, or train yourself to drive adoption within your company.
+
+Skill Require for DEVOPS Engineers: Communication and Collaboration, Soft Skills and Noble Thought, Understanding of Relevant Tools, Security Skills,
+Automation Skills, Coding and Scripting, Cloud Skills, Testing Skills,Customer-Focused Approach,
+Proactiveness
