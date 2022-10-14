@@ -8,3 +8,7 @@
 - Elam He 101302782 (branch: 101302782-Elam)
 
 #### GitHub Action script added
+#### Studentid_gb.txt files added
+#### Studentid_devops.txt files added
+#### Studentid_sdlc.txt files added
+#### Studentid_screenshots added
