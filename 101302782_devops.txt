@@ -1,0 +1,19 @@
+About DevOps Course in T177
+Week 1:
+- Dicussed the course syllabus
+- Talked about the git/gitbash etc
+
+Week 2:
+- Went over week 1 and 2 slides
+- Looked at what DevOps enginerrs do
+- Looked at tools used in that field
+
+Week 3:
+- Tracking files with version control
+- create remote repository
+
+Week 4:
+- ...
+
+Week 5:
+- ...

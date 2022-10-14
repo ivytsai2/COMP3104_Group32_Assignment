@@ -1,4 +1,9 @@
 This course is designed to better prepare professionals entering the IT field.
 Specifically, a field where servers, web apps and infrastructure will be core to
-business needs. COMP 3104 will provide a hands-on experience through the
-implementation of tried, tested and true DevOps technologies. 
+business needs. DevOps speeds delivery of higher 
+quality software by combining and automating the work of 
+software development and IT operations teams.
+
+DevOps provides business, technology and software 
+deployment benefits to an organiza, 
+DevOps Institute Suggests The Must-Have DevOps Skills Have Changed.
