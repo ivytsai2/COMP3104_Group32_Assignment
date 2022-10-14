@@ -1,0 +1,5 @@
+Learning Devops engineer is important to software development cycle because it helps 
+the team to successed in fast pased and high demand environment. 
+When Devops is applied correctly it can drastically reduce IT overheads, 
+remove manual tasks, enforce best security practices, expedite product delivery 
+and improve communication and collaboration across teams.
