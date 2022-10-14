@@ -1,0 +1,7 @@
+This course is designed to better prepare professionals entering the IT field. 
+Specifically, servers, web applications and infrastructure will be the core areas Business needs. DevOps accelerates delivery of higher Quality software by combining and automating work
+Software development and IT operations teams. 
+DevOps provides business, technology and software
+The benefits of deployment to the organization,The DevOps Institute recommends essential DevOps skills have changed.
+DevOps is a set of practices that combines software development and IT operations (Ops).
+ 

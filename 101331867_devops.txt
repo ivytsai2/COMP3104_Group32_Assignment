@@ -1,0 +1,5 @@
+This course COMP3104 DevOps is designed to perpare students entering the IT field.
+Students will learn about the procedures, protocols and best practices that a 
+DevOps engineer brings to a workplace environment to increase productivity. 
+In this course hands-on experinces are privided through labs where students will become familiar with 
+end-to-end deployment processes and able to build own pipline to push changes.
