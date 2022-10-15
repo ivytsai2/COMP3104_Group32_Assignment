@@ -7,6 +7,7 @@
 - Chan Shum Loman 101241079 (branch: 101241079-Loman)
 - Elam He 101302782 (branch: 101302782-Elam)
 - Tung Po Alex Tsang 101349856 (branch: 101349856-Alex)
+- Hui Qiu 100675355 (branch: 100675355-hui)
 
 #### GitHub Action script added
 #### Studentid_gb.txt files added
