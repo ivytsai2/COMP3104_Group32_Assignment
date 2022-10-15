@@ -6,6 +6,7 @@
 - Hsin Yu Ivy Tsai 101331867 (branch: 101331867-Ivy)
 - Chan Shum Loman 101241079 (branch: 101241079-Loman)
 - Elam He 101302782 (branch: 101302782-Elam)
+- Tung Po Alex Tsang 101349856 (branch: 101349856-Alex)
 
 #### GitHub Action script added
 #### Studentid_gb.txt files added
